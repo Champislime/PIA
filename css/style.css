@@ -1,0 +1,37 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo h1{
+    color: rgb(0, 0, 100) !important;
+    font-weight: bold !important;
+}
+
+nav a{
+    margin-left: 20px !important;
+}
+
+.reloj{
+    margin-right: 20px !important;
+}
+
+.reloj h1{
+    background-color: rgb(0, 0, 100) !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    padding: 5px !important;
+    border-radius: 1px !important;
+}
+.reloj input{
+    text-align: center !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    background-color: rgb(211, 211, 211) !important;
+    border-radius: 1px !important;
+}
+
+footer{
+    background-color: black !important;
+    color: white !important;
+}
